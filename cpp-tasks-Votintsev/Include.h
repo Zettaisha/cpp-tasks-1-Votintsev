@@ -1,0 +1,12 @@
+#pragma once
+#include "Timer.h"
+#include <iostream>
+#include <string>
+#include "DateTime.h"
+#include "Pixel.h"
+#include <math.h>
+#include "Line.h"
+#include "Triangle.h"
+#include <cmath>
+#include <chrono>
+#include <thread>
